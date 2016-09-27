@@ -1,5 +1,5 @@
 {
-  "name": "Simple-breakout",
+  "name": "Simple-Breakout",
   "tagline": "Just a simple Breakout-Style Game",
   "body": "# Simple-Breakout\r\nHello there!\r\nI don't know how you found this page but since you are already here, I guess you want to know what this Site is about.\r\n  \r\nWell, this Site is about a classic Breakout Styled Game I'm working on. On this Site you will find Information regarding this Project as well as Status Updates.\r\n\r\n***\r\n\r\nA (hopefully) playable build of this game is downloadable in the [Releases Section](https://github.com/kartoffelx86/Simple-Breakout/releases).\r\n\r\n## To-Do:\r\n- [x] Make a working game\r\n- [ ] Rework all Graphics\r\n- [ ] Add Multiplayer\r\n\r\n:new_moon_with_face:",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
